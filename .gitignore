@@ -1,6 +1,9 @@
 # Pasta de documentação interna (não vai pro GitHub)
 GUIA/
 
+# Scripts auxiliares de exploração (não necessários no repo final)
+scripts/
+
 # Ambientes virtuais
 tp2-env/
 venv/

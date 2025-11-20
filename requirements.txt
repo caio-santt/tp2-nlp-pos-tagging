@@ -12,6 +12,8 @@ pandas>=2.0.0
 scikit-learn>=1.3.0
 matplotlib>=3.7.0
 seaborn>=0.12.0
+evaluate>=0.4.0
+seqeval>=1.2.2
 
 ## Jupyter
 jupyter>=1.0.0
@@ -21,6 +23,5 @@ ipywidgets>=8.1.0
 ## Utilidades
 tqdm>=4.66.0
 
-# CRF para baseline rápido (opcional)
-sklearn-crfsuite>=0.3.6
+# Utilidades adicionais (opcional)
 nltk>=3.8.0
