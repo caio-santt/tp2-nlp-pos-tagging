@@ -1,0 +1,38 @@
+# Pasta de documentação interna (não vai pro GitHub)
+GUIA/
+
+# Ambientes virtuais
+tp2-env/
+venv/
+env/
+ENV/
+.venv
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+
+# Dados temporários
+*.csv
+*.pkl
+*.pt
+*.pth
+*.h5
+*.hdf5
+
+# VS Code
+.vscode/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Modelos treinados (opcional - descomentar se modelos forem muito grandes)
+# models/
+# checkpoints/
