@@ -20,3 +20,7 @@ ipywidgets>=8.1.0
 
 ## Utilidades
 tqdm>=4.66.0
+
+# CRF para baseline rápido (opcional)
+sklearn-crfsuite>=0.3.6
+nltk>=3.8.0
